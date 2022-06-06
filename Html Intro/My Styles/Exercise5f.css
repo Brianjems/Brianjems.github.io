@@ -1,0 +1,39 @@
+.Dollar {
+    margin-left: 3px;
+    font-size: 18px;
+    color: gray;
+    font-weight: 400;
+}
+
+.Amount {
+    font-family: Arial;;
+    font-size: 30px;
+    font-weight: 550;
+    margin-bottom: 8px;
+    margin-top: 0px;
+    
+}
+
+.percentage {
+    color: rgb(71, 197, 71);
+    font-family: Arial;
+    margin-top: 0px;
+    font-weight: bold;
+    margin-bottom: 8px;
+
+}
+
+.red-amount {
+    font-family: Arial;
+    color: rgb(236, 65, 65);
+    
+}
+
+.After-hours {
+    font-family: Arial;
+    color: gray; 
+}
+
+.After-amount {
+    margin-top: 0px;
+}

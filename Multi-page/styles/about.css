@@ -1,0 +1,55 @@
+.allbody {
+    background-color:rgb(37, 34, 34);
+    background-image: url(Pictures/bg2.svg);
+    
+}
+.navbar-brand {
+    margin-bottom: 15px;
+
+}
+.btn {
+    font-size: 18px;
+    color: azure;
+}
+.nav-item {
+    font-family: Roboto;
+}
+.col-sm-12 {
+  font-family:'Noto Sans', sans-serif;
+}
+.col-md-6 {
+  width: 500px;
+}
+
+.footer2 {
+  height: 100px;
+  background-color: rgb(253, 253, 253);
+  text-align: center;
+  align-items: center;
+  }
+  .me-brian {
+    vertical-align: auto;
+    color: white;
+  }
+  
+  .btn:active {
+      background-color: black;
+  }
+  a:Aboutpage.html {
+    color: rgb(245, 241, 242);
+    background-color: rgb(248, 246, 246);
+    text-decoration: none;
+  }
+  a:visited {
+    border-color: rgb(250, 248, 248);
+    color: white;
+  }
+  a:hover {
+    border-color: rgb(250, 247, 247);
+    color: white;
+  }
+  a:Contact.html {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }

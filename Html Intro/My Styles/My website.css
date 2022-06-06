@@ -1,0 +1,102 @@
+
+        .learn-how-to-code {
+            font-size: 25px;
+            font-weight: bold;
+        
+        }
+        
+        .for-only-150 {
+            color: #00b489;
+            font-style: italic;
+            font-weight: bold;
+        
+        }
+
+        
+    .Add-to-Cart {
+        background-color: rgba(255, 87, 34, 0.1);
+        color: rgb(238, 77, 45);
+        font-family:  sans-serif;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        padding-left: 27px;
+        padding-right: 27px;
+        cursor: pointer;
+        border: 0px;
+        border-style: solid;
+        border-width: 1px;
+        border-radius: 2px;
+        margin-right: 5px;
+        font-weight: bold;
+        vertical-align: middle;
+        
+        
+
+    }
+
+    .Add-to-Cart:hover{
+       opacity: 0.8;
+
+    }
+    
+    .Add-to-Cart:active {
+        opacity: 0.4;
+    }
+
+    .Buy-Now {
+        padding-top: 18px;
+        padding-bottom: 18px;
+        padding-left: 27px;
+        padding-right: 27px;
+        cursor: pointer;
+        border: 5px;
+        border-width: 1px;
+        border-style: solid;
+        color: rgb(119, 74, 192);
+        background: #f6f7f6;
+        border-radius: 2px;
+        font-weight: bold;
+        border-color: rgb(red, green, blue);
+        transition: background-color 0.15s;
+        vertical-align: middle;
+        
+    }
+
+    .Buy-Now:hover {
+        background-color: rgb(119, 74, 192); 
+        color: aliceblue;
+        
+    }
+
+    .Buy-Now:active {
+        opacity: 0.4;
+
+    }
+    
+    .Cancel {
+        padding-top: 18px;
+        padding-bottom: 18px;
+        padding-left: 27px;
+        padding-right: 27px;
+        cursor: pointer;
+        border: 5px;
+        border-width: 1px;
+        border-style: solid;
+        color: rgb(247, 246, 248);
+        background: #ec420f;
+        border-radius: 3px;
+        font-weight: bold;
+        border-color: rgb(red, green, blue);
+        transition: box-shadow 0.15s;
+        vertical-align: middle;
+        
+    }
+
+    .Cancel:hover {
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    }
+
+    .Cancel:active {
+        Opacity: 0.8;
+    }
+    

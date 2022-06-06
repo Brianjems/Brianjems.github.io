@@ -1,0 +1,12 @@
+.allbody {
+    background-color: rgb(37, 34, 34);
+    background-image: url(Pictures/bg2.svg);
+
+}
+.card-body {
+    background-color: rgba(245, 245, 245, 0.4);
+}
+.card {
+    background-color: rgba(245, 245, 245, 0.007);
+    border-color: gray;
+}

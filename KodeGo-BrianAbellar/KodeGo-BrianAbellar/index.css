@@ -1,0 +1,127 @@
+.all-body {
+    background-color: rgb(24, 23, 23);
+}
+
+.header {
+    background: rgb(24, 23, 23);
+    backdrop-filter: blur;
+    display: flex;
+    margin: 0px;
+    flex: 1;
+    align-items: center;
+    height: 100px;
+
+}
+.mylogo {
+   width: 152px;
+   height: 140px;
+   margin-left: 20px;
+   vertical-align: center;
+   color: white;
+}
+.left-section {
+    align-items: center;
+}
+.middle-section {
+    width: 300px;
+     flex:1;
+    max-width: 400px;
+    margin-left: 400px;
+    margin-right:35px;
+    display: flex;
+    align-items: center;
+}
+.my-portfolio {
+    font-family: Arial;
+    font-size: 20px;
+}
+.designation {
+    font-family: Arial;
+    margin-left: 10px;
+}
+.my-picture {
+    width: 300px;
+    height: 250px;
+    margin-left: 0px;
+    border-radius: 5px;
+    margin-top: 100px;
+    margin-left: 0px;
+    border-color: black;
+    display: inline-block;
+    
+}
+.picmid {
+    display: inline-block;
+    width: 600px;
+}
+.right-section {
+    height: 60px;
+    display: flex;
+    flex: 1;
+    align-items: center;  
+    margin-top: 10px;
+    justify-content: space-around;
+ }
+ .home {
+     font-family: Kanit;
+     font-size: 20px;
+     color: white;
+ }
+ .about {
+     font-family: Kanit;
+     font-size: 20px;
+     color: white;
+ }
+ .contact {
+    font-family: Kanit;
+     font-size: 20px;
+     color: white;
+ }
+ .projects {
+    font-family: Kanit;
+     font-size: 20px;
+     color: white;
+ }
+ .about-me {
+     color: white;
+     font-family: Roboto;
+     font-size: 30px;
+ }
+ .picmid {
+     display: block;
+     text-align: center;
+
+ }
+ .about-me-gird {
+     display: inline-block;
+     grid-template-columns: 100px;
+     
+ }
+ .intromyself {
+     color: white;
+     font-family: Roboto;
+     font-size: 20px;
+ }
+ .hobbies {
+     color: white;
+     font-family: Roboto;
+     font-size: 20px;
+     text-align: center;
+ }
+ .list{
+     text-align: center;
+ }
+ .thumbnail {
+     width: 300px;
+     justify-content: center;
+     margin-left: 200px;
+     display: block;
+ }
+ .infoaboutme {
+     margin-top: 70px;
+     display: inline-block;
+     vertical-align: top;
+     color: white;
+     font-family: Roboto;
+     font-size: 20px;
+ }

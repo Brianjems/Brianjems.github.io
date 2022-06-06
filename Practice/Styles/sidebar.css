@@ -1,0 +1,29 @@
+.sidenav {
+        height: 100%; 
+        width: 72px; 
+        padding-top: 5px;
+        position: fixed; 
+        z-index: 200; 
+        top: 0; 
+        left: 0px;
+        bottom: 0;
+        padding-top: 20px;
+        display: block;
+        margin-top: 60px;
+        
+}
+    
+
+.Home-side {
+    display: block;
+    text-align: center;
+    
+}
+.Home {
+    width: 30px;
+
+}
+.home-text {
+    font-size: 11px;
+    font-family: Roboto;
+}
